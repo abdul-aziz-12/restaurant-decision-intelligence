@@ -18,7 +18,7 @@
 | ![Restaurant Profile](images_output/Category%20Variables%20Python.png) | Categorical Variables |
 | ![Python Analysis](images_output/Correlation%20Profit%20and%20Revenue.png) | Correlation Analysis |
 | ![Model Analysis](images_output/Models%20Comparison%20Python.png) | Model Results |
-| ![Test Data Analysis](images_output/Results%20on%Test%20Data%20Python.png) | Test Data Results |
+| ![Test Data Analysis](images_output/Results%20on%20Test%20Data%20Python.png) | Test Data Results |
 
 
 
