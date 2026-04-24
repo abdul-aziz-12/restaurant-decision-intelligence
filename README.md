@@ -8,12 +8,13 @@
 
 | Dashboard | Description |
 |-----------|-------------|
-| ![Sentiment Dashboard](images/Restaurant_Sentiment_Dashboard.png) | Restaurant Sentiment Dashboard |
-| ![Review Analytics](images/Restaurant_Review_Analytics.png) | Negative Review Intelligence |
-| ![Revenue Chart](images/Result_Restaurant.png) | Monthly Revenue & Profit Chart |
-| ![Restaurant Finder](images/Customer_Decision.png) | VBA Customer Decision Tool |
+| ![Sentiment Dashboard](images_output/Restaurant_Sentiment_Dashboard.png) | Restaurant Sentiment Dashboard |
+| ![Review Analytics](images_output/Restaurant_Review_Analytics.png) | Negative Review Intelligence |
+| ![Revenue Chart](images_output/Result_Restaurant.png) | Monthly Revenue & Profit Chart |
+| ![Restaurant Finder](images_output/Customer_Decision.png) | VBA Customer Decision Tool |
 | ![Top 3 Podium](images/Podium_result.png) | Top 3 Restaurant Ranking |
 | ![Restaurant Profile](images_output/Final_Insights_Owner.png) | Restaurant Profile Popup |
+| ![Restaurant Profile](images_output/Category Variables Python.png) | Categorical Variables |
 
 ---
 
