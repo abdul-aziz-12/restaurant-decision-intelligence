@@ -12,9 +12,9 @@
 | ![Review Analytics](images_output/Restaurant_Review_Analytics.png) | Negative Review Intelligence |
 | ![Revenue Chart](images_output/Result_Restaurant.png) | Monthly Revenue & Profit Chart |
 | ![Restaurant Finder](images_output/Customer_Decision.png) | VBA Customer Decision Tool |
-| ![Top 3 Podium](images/Podium_result.png) | Top 3 Restaurant Ranking |
+| ![Top 3 Podium](images_output/Podium_result.png) | Top 3 Restaurant Ranking |
 | ![Restaurant Profile](images_output/Final_Insights_Owner.png) | Restaurant Profile Popup |
-| ![Restaurant Profile](images_output/Category Variables Python.png) | Categorical Variables |
+| ![Restaurant Profile](images_output/Category%20Variables%20Python.png) | Categorical Variables |
 
 ---
 
