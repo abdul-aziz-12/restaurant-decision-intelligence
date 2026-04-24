@@ -13,7 +13,7 @@
 | ![Revenue Chart](images/Result_Restaurant.png) | Monthly Revenue & Profit Chart |
 | ![Restaurant Finder](images/Customer_Decision.png) | VBA Customer Decision Tool |
 | ![Top 3 Podium](images/Podium_result.png) | Top 3 Restaurant Ranking |
-| ![Restaurant Profile](images/Final_Insights_Owner.png) | Restaurant Profile Popup |
+| ![Restaurant Profile](images_output/Final_Insights_Owner.png) | Restaurant Profile Popup |
 
 ---
 
