@@ -14,7 +14,14 @@
 | ![Restaurant Finder](images_output/Customer_Decision.png) | VBA Customer Decision Tool |
 | ![Top 3 Podium](images_output/Podium_result.png) | Top 3 Restaurant Ranking |
 | ![Restaurant Profile](images_output/Final_Insights_Owner.png) | Restaurant Profile Popup |
+| ![Numerical Variables Profile](images_output/Numeric%Variables%Python.png) | Numerical Variables |
 | ![Restaurant Profile](images_output/Category%20Variables%20Python.png) | Categorical Variables |
+| ![Python Analysis](images_output/Correlation%Profit%and%Revenue.png) | Correlation Analysis |
+| ![Model Analysis](images_output/Models%Comparison%Python.png) | Model Results |
+| ![Test Data Analysis](images_output/Results%on%Test%Data%Python.png) | Test Data Results |
+
+
+
 
 ---
 
